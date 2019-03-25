@@ -1,3 +1,5 @@
+All credits to https://github.com/maxogden/extract-zip.
+
 # extract-zip
 
 Unzip written in pure JavaScript. Extracts a zip into a directory. Available as a library or a command line program.
